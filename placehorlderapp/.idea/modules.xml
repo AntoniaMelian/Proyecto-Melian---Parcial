@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/placehorlderapp.iml" filepath="$PROJECT_DIR$/.idea/placehorlderapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/placehorlderapp.iml" filepath="$PROJECT_DIR$/placehorlderapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/placehorlderapp_android.iml" filepath="$PROJECT_DIR$/android/placehorlderapp_android.iml" />
     </modules>
   </component>
 </project>
